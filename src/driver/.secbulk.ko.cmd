@@ -1,0 +1,1 @@
+cmd_/home/pydog/dnw-linux/src/driver/secbulk.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.8.0-35-generic/scripts/module-common.lds --build-id  -o /home/pydog/dnw-linux/src/driver/secbulk.ko /home/pydog/dnw-linux/src/driver/secbulk.o /home/pydog/dnw-linux/src/driver/secbulk.mod.o
